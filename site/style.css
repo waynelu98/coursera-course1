@@ -8,16 +8,18 @@
 	font-size: 18px;
 }
 
+#bottom small{
+	position: absolute;
+	left: 42%;
+}
+
 #bottom {
 	position: absolute;
 	bottom: 5px;
 	width: 100%;
 }
 
-#bottom small{
-	position: absolute;
-	left: 42%;
-}
+
 
 a:visited, a:link {
 	color: blue;
