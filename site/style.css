@@ -1,0 +1,30 @@
+#navigator li{
+			list-style: none;
+
+		}
+
+#navigator {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+section small {
+	font-size: 14px;
+}
+
+a:visited, a:link {
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+	width: 300px;
+	border: 1px solid black;
+	text-align: center;
+	display: block;
+}
+
+a:hover, a:active {
+	color: white;
+	background-color: black;
+	font-weight: bold;
+}
