@@ -8,8 +8,15 @@
 	font-size: 18px;
 }
 
-section small {
-	font-size: 14px;
+#bottom {
+	position: absolute;
+	bottom: 5px;
+	width: 100%;
+}
+
+#bottom small{
+	position: absolute;
+	left: 42%;
 }
 
 a:visited, a:link {
