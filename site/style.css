@@ -7,8 +7,12 @@ body {
 	
 }
 
+<<<<<<< HEAD
 
 #navigator, #quote {
+=======
+body section {
+>>>>>>> parent of de1c58e... turn off mobile zooming
 	width: 50%;
 	float: left;
 	padding: 20px;
