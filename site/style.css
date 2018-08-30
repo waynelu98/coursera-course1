@@ -7,7 +7,14 @@ body {
 	
 }
 
-#navigator, #story {
+#quotesource {
+	font-style: italic;
+	font-size: 90%;
+	position: absolute;
+	left: 70%;
+}
+
+#navigator, #quote {
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -28,14 +35,15 @@ body {
 	font-size: 120%;
 }
 
-#story {
+#quote {
 	font-size: 120%;
 	font-weight: bold;
 }
 
+
 #bottom small{
 	position: absolute;
-	left: 42%;
+	left: 36%;
 }
 
 #bottom {
