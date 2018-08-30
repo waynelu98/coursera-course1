@@ -7,12 +7,6 @@ body {
 	
 }
 
-#quotesource {
-	font-style: italic;
-	font-size: 90%;
-	position: absolute;
-	left: 70%;
-}
 
 #navigator, #quote {
 	width: 50%;
@@ -40,6 +34,12 @@ body {
 	font-weight: bold;
 }
 
+#quote div {
+	font-style: italic;
+	font-size: 90%;
+	position: absolute;
+	left: 70%;
+}
 
 #bottom small{
 	position: absolute;
