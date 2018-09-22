@@ -3,8 +3,7 @@
 }
 
 body {
-	font-family:  Consolas, Consolas, Helvetica, sans-serif;
-	
+	font-family: 'Roboto Slab', Helvetica, sans-serif;
 }
 
 
@@ -43,7 +42,7 @@ body {
 
 #bottom small{
 	position: absolute;
-	left: 36%;
+	left: 40%;
 }
 
 #bottom {
@@ -72,7 +71,7 @@ a:hover, a:active {
 	font-weight: bold;
 }
 
-p:hover, p:active {
+#quote p:hover, #quote div:hover {
 	color:white;
 	background-color: blue;
 	font-weight: bold;
