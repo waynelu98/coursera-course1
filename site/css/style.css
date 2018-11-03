@@ -76,7 +76,6 @@ body::after {
   color: #333;
   padding: 15px 15px;
   width: 55px;
-  background: #fff;
   border: 2px solid #555;
   margin: 15px;
 }
@@ -99,6 +98,5 @@ body::after {
 .center-button button {
   color: #000;
   padding: 15px 15px;
-  background: #ddd;
   margin: 20px auto;
 }
